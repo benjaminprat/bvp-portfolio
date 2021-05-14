@@ -1,12 +1,12 @@
 const projects = [
   {
-    title: 'CourseChart',
+    title: 'National Parkfinder',
     type: 'Group',
-    timeframe: '2 Weeks',
-    description: 'A course planning tool to help instructors and subject matter experts plan activities for a given course. A user can add a new course with multiple modules, activities, and notes to help them stay organized.',
-    technologies: ['React', 'Next', 'HTML', 'SCSS', 'Javascript'],
-    deployed: 'https://course-chart-ap.vercel.app/',
-    repository: 'https://github.com/alia-peterson/course-chart-ap',
+    timeframe: '6 Days',
+    description: 'A tool that allows users to explore all 63 national parks. Users can search parks by full or partial name or select a state from a dropdown menu',
+    technologies: ['React','SCSS', 'Javascript'],
+    deployed: 'http://national-parkfinder.herokuapp.com',
+    repository: '',
     image: {
       src: '/images/gems.png',
       height: 100,
