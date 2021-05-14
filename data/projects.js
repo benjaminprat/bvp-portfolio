@@ -14,13 +14,13 @@ const projects = [
     }
   },
   {
-    title: 'Viewing Party',
-    type: 'Solo',
+    title: 'Fit Lit',
+    type: 'Pair',
     timeframe: '4 Days',
-    description: 'An application that provides one location to find cocktail recipes and trivia questions to play with friends. Users can specify cocktail bases and trivia categories as well as save recipes for later use.',
-    technologies: ['React', 'HTML', 'CSS', 'Javascript'],
-    deployed: 'https://triviology.herokuapp.com/',
-    repository: 'https://github.com/alia-peterson/trivia-night',
+    description: '',
+    technologies: ['HTML', 'CSS', 'Javascript', 'Chart.js'],
+    deployed: 'https://alia-peterson.github.io/fitlit/src/index.html',
+    repository: 'https://github.com/alia-peterson/fitlit',
     image: {
       src: '/images/candles.png',
       height: 160,
@@ -33,7 +33,7 @@ const projects = [
     timeframe: '3 Days',
     description: 'An application that reports weather and air quality for a user\'s current location and for any specified locations supported by the AirVisual API. All locations are stored locally to allow for future reference and ease of use.',
     technologies: ['Vue', 'HTML', 'CSS', 'Javascript'],
-    deployed: 'https://activ-air-alia-peterson.vercel.app/',
+    deployed: 'https://operation-atmos-fe.vercel.app/',
     repository: 'https://github.com/benjaminprat/operation-atmos-fe',
     image: {
       src: '/images/cards.png',
